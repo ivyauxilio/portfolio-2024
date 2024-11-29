@@ -13,7 +13,7 @@ const Services = () => {
         <div class="container">
           <div class="row gy-4">
             <div class="col-xl-3 col-md-6 d-flex">
-              <div class="service-item position-relative">
+              <div class="service-item position-relative w-100">
                 <div class="icon">
                   <i class="bi bi-activity icon"></i>
                 </div>
@@ -22,14 +22,14 @@ const Services = () => {
                     Video Ediding
                   </a>
                 </h4>
-                <p>
+                {/* <p>
                 We’re always provide people a complete solution focused of any business.
-                </p>
+                </p> */}
               </div>
             </div>
 
             <div class="col-xl-3 col-md-6 d-flex">
-              <div class="service-item position-relative">
+              <div class="service-item position-relative w-100">
                 <div class="icon">
                   <i class="bi bi-bounding-box-circles icon"></i>
                 </div>
@@ -38,41 +38,41 @@ const Services = () => {
                     Web Development
                   </a>
                 </h4>
-                <p>
+                {/* <p>
                 We’re always provide people a complete solution focused of any business.
-                </p>
+                </p> */}
               </div>
             </div>
 
             <div class="col-xl-3 col-md-6 d-flex">
-              <div class="service-item position-relative">
+              <div class="service-item position-relative w-100">
                 <div class="icon">
                   <i class="bi bi-calendar4-week icon"></i>
                 </div>
                 <h4>
                   <a href="" class="stretched-link">
-                   Web Application
+                  Graphics
                   </a>
                 </h4>
-                <p>
+                {/* <p>
                 We’re always provide people a complete solution focused of any business.
-                </p>
+                </p> */}
               </div>
             </div>
 
             <div class="col-xl-3 col-md-6 d-flex">
-              <div class="service-item position-relative">
+              <div class="service-item position-relative w-100">
                 <div class="icon">
                   <i class="bi bi-broadcast icon"></i>
                 </div>
                 <h4>
                   <a href="" class="stretched-link">
-                    Graphics
+                    Logo Design
                   </a>
                 </h4>
-                <p>
+                {/* <p>
                 We’re always provide people a complete solution focused of any business.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>

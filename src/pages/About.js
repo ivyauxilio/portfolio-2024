@@ -1,4 +1,5 @@
 import React from "react";
+import { FaCheck, FaCheckCircle, FaAngleRight } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -145,7 +146,8 @@ const About = () => {
                   <div className="d-flex mb-3">
                     <div className="flex-shrink-0 me-1-6">
                       <div className="about-icon-02">
-                        <i className="ti-check"></i>{" "}
+                        {/* <i className="ti-check"></i>{" "} */}
+                        <FaCheck />
                       </div>
                     </div>
                     <div className="flex-grow-1">
@@ -161,7 +163,7 @@ const About = () => {
                   <div className="d-flex mb-3">
                     <div className="flex-shrink-0 me-1-6">
                       <div className="about-icon-02">
-                        <i className="ti-check"></i>{" "}
+                       <FaCheck />
                       </div>
                     </div>
                     <div className="flex-grow-1">
@@ -177,7 +179,7 @@ const About = () => {
                   <div className="d-flex mb-3">
                     <div className="flex-shrink-0 me-1-6">
                       <div className="about-icon-02">
-                        <i className="ti-check"></i>{" "}
+                      <FaCheck />
                       </div>
                     </div>
                     <div className="flex-grow-1">
